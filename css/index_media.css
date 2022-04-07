@@ -1,0 +1,727 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    
+   
+    .about-imgContainer
+    {
+        width: 90%;
+    }
+    .about-border
+    {
+       border:none;
+       position: relative;
+       left: 0px;
+       width:100%
+    }
+    .about-content
+    {
+        width: 100%;
+        padding: 50px 20px;
+    }
+    .about-data ul li
+    {
+        width: 100%; 
+    }
+    .navbar ul
+    {
+        width: 65%;
+    }
+
+    .brd 
+    {
+        width: 100%;
+    }
+    .bordertitle
+    {
+        width: 20%;
+    }
+    .lbordertitle
+    {
+        width: 40%;
+    }
+    .sevicesContainer
+    {
+        width:70%;
+    }
+    .services
+    {
+        width: 100%;
+    }
+    
+    .ourportfolio
+    {
+        width: 100%;
+    }
+    .portfolio-container
+    {
+        width: 80%;
+    }
+    .portfolio-item
+    {
+        width: 100%;
+        margin:10px 0px ;
+    }
+    
+    .factor
+    {
+      width: 100%;
+    }
+    .factorContainer
+    {
+        width:75%;
+    }
+    .factoritem
+    {
+        width: 100%;
+        padding: 15px 0px;
+    }
+    
+    .clientfeedback
+    {
+        width: 100%;
+    }
+    .card
+    {
+        width: 90%;
+    }
+    .card-img img
+    {
+        width: 100%;
+      
+    }
+    .feedback-slider
+    {
+        width: 10%;
+        padding-top: 5px;
+    }
+    .slider1,.slider2
+    {
+        float: left;
+    }
+    
+    .ourblog
+    {
+        width: 100%;
+    }
+    .blog-container
+    {
+        width:90%;
+    }
+    .ourblog-content
+    {
+        width:100%;
+    }
+    
+    .contactform form
+    {
+        width: 90%;
+    }
+    
+    .visitordata .form_control
+    {
+        width: 100%;
+    }
+   
+    .footer 
+    {
+        width:100%;
+    }
+    .copyright,.footericon
+    {
+        width: 100%;
+        margin: auto;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px)and (max-width:768px) {
+
+   
+    .about-imgContainer
+    {
+        width: 100%;
+    }
+    .about-border
+    {
+       border:none;
+       position: relative;
+       left: 0px;
+       width: 70%;
+       margin:auto;
+    }
+    .navbar ul
+    {
+        width: 65%;
+    }
+    .about-content
+    {
+        width: 90%;
+        padding-top: 50px ;
+        padding-left: 120px;
+    }
+    .about-data ul li
+    {
+        width: 100%; 
+    }
+
+    .brd 
+    {
+        width: 100%;
+    }
+    .bordertitle
+    {
+        width: 20%;
+    }
+    .lbordertitle
+    {
+        width: 40%;
+    }
+    .sevicesContainer
+    {
+        width:70%;
+    }
+    .services
+    {
+        width: 100%;
+    }
+    
+    .ourportfolio
+    {
+        width: 100%;
+    }
+    .portfolio-container
+    {
+        width: 70%;
+    }
+    .portfolio-item
+    {
+        width: 100%;
+        margin:10px 0px ;
+    }
+    
+    .factor
+    {
+      width: 100%;
+    }
+    .factorContainer
+    {
+        width:75%;
+    }
+    .factoritem
+    {
+        width: 100%;
+        padding: 15px 0px;
+    }
+    
+    .clientfeedback
+    {
+        width: 100%;
+    }
+    .card
+    {
+        width: 70%;
+    }
+    .card-img img
+    {
+        width: 100%;
+      
+    }
+    .feedback-slider
+    {
+        width: 10%;
+        padding-top: 5px;
+    }
+    .slider1,.slider2
+    {
+        float: left;
+    }
+    
+    .ourblog
+    {
+        width: 100%;
+    }
+    .blog-container
+    {
+        width:70%;
+    }
+    .ourblog-content
+    {
+        width:100%;
+    }
+    
+    .contactform form
+    {
+        width: 70%;
+    }
+    
+    .visitordata .form_control
+    {
+        width: 100%;
+    }
+   
+    .footer 
+    {
+        width:100%;
+    }
+    .copyright,.footericon
+    {
+        width: 100%;
+        margin: auto;
+    }
+   
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px)and (max-width:992px)  {
+  
+    .logo 
+    {
+        text-align: start;
+        padding-left: 20px;
+    }
+    .navbar ul
+    {
+        width: 65%;
+    }
+    .about-imgContainer
+    {
+        width: 45%;
+    }
+    .about-border
+    {
+       border:none;
+       position: relative;
+       left: 0px;
+       width: 100%;
+       margin:auto;
+    }
+    .about-content
+    {
+        width: 50%;
+        padding-top: 20px ;
+        padding-left: 50px;
+    }
+    .about-data ul li
+    {
+        width: 50%; 
+        font-size: 12px;
+    }
+   
+
+    .brd 
+    {
+        width: 100%;
+    }
+    .bordertitle
+    {
+        width: 20%;
+    }
+    .lbordertitle
+    {
+        width: 40%;
+    }
+    .sevicesContainer
+    {
+        width:90%;
+    }
+    .services
+    {
+        width: 50%;
+    }
+    
+    .ourportfolio
+    {
+        width: 100%;
+    }
+    .portfolio-container
+    {
+        width: 95%;
+    }
+    .portfolio-item
+    {
+        width: 50%;
+        margin:10px 0px;
+        padding:0px 15px;
+    }
+    .portfoliolink
+    {
+        width: 92%;
+    }
+    
+    .factor
+    {
+      width: 100%;
+    }
+    .factorContainer
+    {
+        width:90%;
+    }
+    .factoritem
+    {
+        width: 25%;
+        padding: 15px 0px;
+    }
+    
+    .clientfeedback
+    {
+        width: 100%;
+    }
+    .card
+    {
+        width: 90%;
+    }
+    .card-img img
+    {
+        width: 100%;
+      
+    }
+    .feedback-slider
+    {
+        width: 10%;
+        padding-top: 5px;
+    }
+    .slider1,.slider2
+    {
+        float: left;
+    }
+    
+    .ourblog
+    {
+        width: 100%;
+    }
+    .blog-container
+    {
+        width:95%;
+    }
+    .ourblog-content
+    {
+        width:33.333%;
+    }
+    iframe
+    {
+        height: 135px;
+    }
+    .contactform form
+    {
+        width: 80%;
+    }
+    
+    .visitordata .form_control
+    {
+        width: 48%;
+    }
+   
+    .footer 
+    {
+        width:100%;
+    }
+    .copyright,.footericon
+    {
+        width: 100%;
+        margin: auto;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px)and (max-width:1200px)  {
+   
+    .logo 
+    {
+        text-align: start;
+        padding-left: 20px;
+    }
+    .navbar ul
+    {
+        width: 50%;
+    }
+    .about-imgContainer
+    {
+        width: 45%;
+    }
+    .about-border
+    {
+    border: rgb(85, 85, 85) 8px solid;
+    border-radius: 5px;
+    position: relative;
+    left: 20px;
+    width: 70%;
+    }
+    .about-content
+    {
+        width: 50%;
+        padding-left: 10px;
+    }
+    .about-data ul li
+    {
+        width: 50%; 
+        font-size: 15px;
+    }
+    
+
+    .brd 
+    {
+        width: 100%;
+    }
+    .bordertitle
+    {
+        width: 10%;
+    }
+    .lbordertitle
+    {
+        width: 20%;
+    }
+    .sevicesContainer
+    {
+        width:95%;
+    }
+    .services
+    {
+        width: 25%;
+    }
+    
+    .ourportfolio
+    {
+        width: 100%;
+    }
+    .portfolio-container
+    {
+        width: 100%;
+    }
+    .portfolio-item
+    {
+        width: 33.333%;
+        margin:10px 0px;
+        padding:0px 15px;
+    }
+    .portfoliolink
+    {
+        width: 92%;
+    }
+    
+    .factor
+    {
+      width: 100%;
+    }
+    .factorContainer
+    {
+        width:90%;
+    }
+    .factoritem
+    {
+        width: 25%;
+        padding: 15px 0px;
+    }
+    
+    .clientfeedback
+    {
+        width: 100%;
+    }
+    .card
+    {
+        width: 60%;
+    }
+    .card-img img
+    {
+        width: 100%;
+      
+    }
+    .feedback-slider
+    {
+        width: 10%;
+        padding-top: 5px;
+    }
+    .slider1,.slider2
+    {
+        float: left;
+    }
+    
+    .ourblog
+    {
+        width: 100%;
+    }
+    .blog-container
+    {
+        width:100%;
+    }
+    .ourblog-content
+    {
+        width:33.333%;
+    }
+    iframe
+    {
+        height: 180px;
+    }
+
+
+    .contactform form
+    {
+        width: 60%;
+    }
+    
+    .visitordata .form_control
+    {
+        width: 48%;
+    }
+   
+    .footer 
+    {
+        width:100%;
+    }
+    .copyright,.footericon
+    {
+        width: 100%;
+        margin: auto;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .logo 
+    {
+        width: 30%;
+    float: left;
+    padding: 18px 0;
+    text-align: center;
+    }
+    .navbar ul
+    {
+        width: 45%;
+    }
+    .about-imgContainer
+    {
+        width: 50%;
+    }
+    .about-border
+    {
+    border: rgb(85, 85, 85) 8px solid;
+    border-radius: 5px;
+    position: relative;
+    left: 330px;
+    width: 45%;
+    }
+    .about-content
+    {
+        width: 40%;
+        padding-left: 0px;
+    }
+    .about-data ul li
+    {
+        width: 40%; 
+        font-size: 18px;
+    }
+    
+
+    .brd 
+    {
+        width: 50%;
+    }
+    .bordertitle
+    {
+        width: 10%;
+    }
+    .lbordertitle
+    {
+        width: 20%;
+    }
+    .sevicesContainer
+    {
+        width:70%;
+    }
+    .services
+    {
+        width: 25%;
+    }
+    
+    .ourportfolio
+    {
+        width: 70%;
+    }
+    .portfolio-container
+    {
+        width: 100%;
+    }
+    .portfolio-item
+    {
+        width: 30%;
+        margin:10px 10px;
+    }
+    .portfoliolink
+    {
+        width: 100%;
+    }
+    
+    .factor
+    {
+      width: 100%;
+    }
+    .factorContainer
+    {
+        width:75%;
+    }
+    .factoritem
+    {
+        width: 25%;
+        padding: 15px 0px;
+    }
+    
+    .clientfeedback
+    {
+        width: 100%;
+    }
+    .card
+    {
+        width: 50%;
+    }
+    .card-img img
+    {
+        width: 100%;
+      
+    }
+    .feedback-slider
+    {
+        width: 5%;
+        padding-top: 0px;
+    }
+    .slider1,.slider2
+    {
+        float: left;
+    }
+    
+    .ourblog
+    {
+        width: 100%;
+    }
+    .blog-container
+    {
+        width:75%;
+    }
+    .ourblog-content
+    {
+        width:33.333%;
+    }
+    iframe
+    {
+        height: 200px;
+    }
+
+
+    .contactform form
+    {
+        width: 50%;
+    }
+    
+    .visitordata .form_control
+    {
+        width: 48%;
+    }
+   
+    .footer 
+    {
+        width:100%;
+    }
+    .copyright,.footericon
+    {
+        width: 50%;
+        margin: auto;
+    }
+}
